@@ -1,0 +1,13 @@
+{
+  "id": "piazza",
+  "name": "Piazza",
+  "version": "1.0.0",
+  "description": "Piazza",
+  "main": "index.js",
+  "author": "Roland Fong <rfblue2@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/rfblue2/recipe-piazza",
+  "config": {
+    "serviceURL": "https://www.piazza.com/"
+  }
+}
